@@ -1,2 +1,2 @@
 # Chat-app
-Incomplete
+The app is incomplete 
